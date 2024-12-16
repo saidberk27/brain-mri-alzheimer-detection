@@ -1,0 +1,23 @@
+# Deep Learning ve Görüntü İşleme
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.1
+Pillow==10.1.0
+scikit-learn==1.5.2
+pandas==2.2.0
+matplotlib==3.8.0
+matplotlib-inline==0.1.7
+tqdm==4.67.1
+opencv-python==4.10.0.84
+albumentations==1.0.0
+
+# GUI
+PyQt5==5.15.0
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+requests==2.32.3
+requests-file==2.1.0
+
+# Yardımcı Kütüphaneler
+scipy==1.14.1
+joblib==1.4.2
